@@ -1,0 +1,14 @@
+p {background-color: blue;
+height:100px;
+width: 100px;
+}
+#text1{background-color: rgb(247, 137, 247);
+}
+#text2{background-color: rgb(172, 70, 197);
+}
+#text3{background-color: rgb(159, 48, 163);
+}
+#text4{opacity: 0.5;
+}
+#text5{opacity: 0.25;
+}
